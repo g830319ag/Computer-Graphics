@@ -1,0 +1,4 @@
+/home/alex/Documents/CG/HW1/CG2023-HW1/build/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/foo.dir
+/home/alex/Documents/CG/HW1/CG2023-HW1/build/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/boo.dir
+/home/alex/Documents/CG/HW1/CG2023-HW1/build/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/edit_cache.dir
+/home/alex/Documents/CG/HW1/CG2023-HW1/build/CMakeFiles/_CMakeLTOTest-C/bin/CMakeFiles/rebuild_cache.dir

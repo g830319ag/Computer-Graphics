@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -flto -fno-fat-lto-objects CMakeFiles/HW0.dir/context_manager.cpp.o CMakeFiles/HW0.dir/main.cpp.o -o /home/alex/Documents/CG/HW0/bin/HW0  -Wl,-rpath,/home/alex/Documents/CG/HW0/bin /home/alex/Documents/CG/HW0/bin/libglfw.so.3.4 

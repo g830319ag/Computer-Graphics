@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -flto -fno-fat-lto-objects CMakeFiles/HW1.dir/camera.cpp.o CMakeFiles/HW1.dir/opengl_context.cpp.o CMakeFiles/HW1.dir/main.cpp.o -o /home/alex/Documents/CG/HW1/CG2023-HW1/bin/HW1  -Wl,-rpath,/home/alex/Documents/CG/HW1/CG2023-HW1/bin /home/alex/Documents/CG/HW1/CG2023-HW1/bin/libglfw.so.3.4 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -flto -fno-fat-lto-objects -shared -Wl,-soname,libglm_shared.so -o /home/alex/Documents/CG/HW2/CG2023-HW2/bin/libglm_shared.so CMakeFiles/glm_shared.dir/detail/glm.cpp.o 

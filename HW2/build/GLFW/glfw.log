@@ -1,0 +1,18 @@
+﻿  context.c
+  egl_context.c
+  init.c
+  input.c
+  monitor.c
+  osmesa_context.c
+  vulkan.c
+  wgl_context.c
+  win32_init.c
+  win32_joystick.c
+  win32_monitor.c
+  win32_thread.c
+  win32_time.c
+  win32_window.c
+  window.c
+  LINK : 最後的累加連結找不到或未建置 C:\Users\USER\Downloads\HW2\CG2023-HW2\vs2019\..\bin\glfw3.dll，正在執行完整連結
+     正在建立程式庫 C:\Users\USER\Downloads\HW2\CG2023-HW2\vs2019\..\lib\glfw3dll.lib 和物件 C:\Users\USER\Downloads\HW2\CG2023-HW2\vs2019\..\lib\glfw3dll.exp
+  glfw.vcxproj -> C:\Users\USER\Downloads\HW2\CG2023-HW2\bin\glfw3.dll
